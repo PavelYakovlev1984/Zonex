@@ -1,4 +1,5 @@
 import './_vendor';
-import vars from './_vars';
+import '_vars';
+import '_components/main-slider'
 import './_functions';
-import './_components';
+import '_components';
