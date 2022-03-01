@@ -1,5 +1,10 @@
-import './_vendor';
-import '_vars';
-import '_components/main-slider'
-import './_functions';
-import '_components';
+import './vendor/focus-visible.min.js';
+import './components/main-slider';
+import './components/marketing';
+import {resizeContent} from './functions/resize';
+import {scrollTo} from './functions/smooth-scroll';
+import {disableScroll, enableScroll} from './functions/stop-scroll';
+
+
+
+
