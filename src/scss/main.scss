@@ -12,11 +12,5 @@
 @import "./components/banners";
 @import "./components/main-products";
 @import "./components/product";
-
-// тестовые стили, удалите их
-// .page__body {
-//   display: flex;
-//   align-items: center;
-//   justify-content: center;
-//   height: var(--vh);
-// }
+@import "./components/shop-banners";
+@import "./components/footer";
